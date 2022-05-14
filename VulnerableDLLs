@@ -1,3 +1,4 @@
+Current list of DLLs searched for (NOT FOUND) by various Ransomware as discovered in my analysis.
 Top: netapi32.dll, wow64log.dll, CRYPTSP.dll, winhttp.dll, mpr.dll, CLDAPI.dll, urlmon.dll
  
 netapi32.dll
