@@ -33,6 +33,11 @@ rpcss.dll
 MFC42LOC.DLL
 UxTheme.dll
 winhttp.dll
+NTDSAPI.dll
+wtsapi32.dll
+Winspool.drv
+WindowsCodecs.dll
+cscapi.dll
 WSOCK32.dll
 edputil.dll
 framedynos.dll
